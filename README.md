@@ -50,7 +50,7 @@ FFD steht fuer Freifunk Dresden. Wir als Freifunk Leipzig nutzen die Firmware vo
 
 ## Rechtliche Fragen
 
-Die Internetverbindung der Knoten verwendet nicht direkt deine Heimleitung sondern nutzt einen Tunnel (VPN-Verbindung) die zu einem unserer Server hergestellt wird. Durch diese eingesetze Technologie gehen jegliche Internetanfragen ueber einen unserer Server.
+Die Internetverbindung der Knoten verwendet nicht direkt deine Heimleitung sondern nutzt einen Tunnel (VPN-Verbindung) die zu einem unserer Server hergestellt wird. Durch diese eingesetze Technologie gehen jegliche Internetanfragen ueber einen unserer Server und ihre original IP-Adresse von der hemischen Leitung kann nicht nachverfolgt werden.
 
 
 
